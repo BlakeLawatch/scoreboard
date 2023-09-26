@@ -1,0 +1,22 @@
+button {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    margin: 2em;
+    padding: .3em;
+
+}
+
+button:hover {
+    background-color: #9c9c9b;
+    transition: .2s linear;
+}
+
+.title {
+    color: #862b3a;
+    font-size: 60px;
+}
+
+body {
+    background-image: url(https://plus.unsplash.com/premium_photo-1663951812981-53a83368af1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFza2V0YmFsbCUyMGNvdXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60);
+}
